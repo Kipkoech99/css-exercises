@@ -1,0 +1,17 @@
+.odd{
+    background-color: #ffc0cb;
+    font-family: 'verdana', 'DejaVu Sans', 'sans-serif';
+    font-size: 18px;
+}
+.three{
+    font-size: 24px;
+}
+#even{
+    font-size: 36px;
+    color: #0000ff;
+}
+#four{
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
